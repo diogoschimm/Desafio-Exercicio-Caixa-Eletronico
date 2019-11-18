@@ -18,3 +18,5 @@ Desafio do Saque de Notas para Caixa Eletrônico
 ## Resultado da Execução
 
 ![image](https://user-images.githubusercontent.com/30643035/69021595-bda5ff00-098e-11ea-8e4a-5c9274ee156a.png)
+
+![image](https://user-images.githubusercontent.com/30643035/69021644-e62df900-098e-11ea-9a0d-78af3c580f66.png)
