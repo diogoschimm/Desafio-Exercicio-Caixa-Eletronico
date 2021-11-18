@@ -87,14 +87,10 @@ namespace CaixaEletronicoExercicioNotas
                 {
                     valor += nota;
                     if (divRem > 1)
-                    {
                         valorAdd = divRem - 1;
-                    }
                 }
                 else
-                {
                     valorAdd = divRem;
-                }
             }
 
             notas.Add(new Item(nota, valorAdd));
